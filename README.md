@@ -6,6 +6,8 @@ A simple Resident Evil ReVerse tool, designed to enhance your in-game experience
 ## Features
 - **Completely Free:** :)
 
+- **Simple GUI:** The tool features a user-friendly, intuitive interface that is easy to navigate.
+
 - **Full Config System:** A full configuration system that lets you save and load your settings in 15 available slots, so you can run the tool, load your settings, and enjoy.
 
 - **Hotkeys:** Hotkeys system for everything, allowing you to enable/disable any feature in the tool using your keyboard. Plus, the keybindings are fully customizable.
@@ -77,6 +79,8 @@ This tool is for educational and entertainment purposes only. Use it responsibly
  
 ## المميزات
 - **مجاني بالكامل:** :)
+
+- **واجهة بسيطة:** التول تقدم واجهة بسيطة بتصميم خفيف لتسهل تجربة المستخدم.
 
 - **نظام Config كامل:** نظام Config كامل يتيح لك حفظ و تحميل اعدادتك الى 15 خانة متاحة , لذا يمكنك تشغيل التول , تحميل اعداداتك الخاصة, و استمتع .
 
