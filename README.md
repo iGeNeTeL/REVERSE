@@ -1,7 +1,7 @@
 # Resident Evil ReVerse Tool <br/>(By GeNeTeL جنتل) 
 
 A simple Resident Evil ReVerse tool, designed to enhance your in-game experience.
-<br> [Showcase Videos](https://www.youtube.com)
+<br> [Showcase Videos](https://www.youtube.com/watch?v=eLkXgUOmWBE)
 
 ## Features
 - **Completely Free:** :)
@@ -75,7 +75,7 @@ This tool is for educational and entertainment purposes only. Use it responsibly
 # تول لـ لعبة رزدينت ايفل ريفيرس <br/> (تم تطويره من قبل جنتل GeNeTeL)
 
 تول بسيط مصمم لتحسين تجربتك داخل لعبة رزدينت ايفل ريفيرس.<br/>
- [فيديو استعراض](https://www.youtube.com)
+ [فيديو استعراض](https://www.youtube.com/watch?v=eLkXgUOmWBE)
  
 ## المميزات
 - **مجاني بالكامل:** :)
