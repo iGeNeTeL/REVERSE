@@ -34,7 +34,7 @@ A simple Resident Evil ReVerse tool, designed to enhance your in-game experience
 
 - **Theme Option:** Choose between two available menu themes: **"Dark"** and **"Light"**.
 
-![Features](https://github.com/iGeNeTeL/REVERSE)
+![Features](https://github.com/iGeNeTeL/REVERSE/blob/main/Images/Features.jpg)
 
 ## Installation
 1. **Download** the latest version from the [Releases](https://github.com/iGeNeTeL/REVERSE/releases) page.
@@ -90,7 +90,7 @@ This tool is for educational and entertainment purposes only. Use it responsibly
 
 - **مجال الرؤية:** عدل مجال الرؤية الخاص بك الى اي قيمة تريدها. 
 
-- **كروس هير:** اعرض كروس هير في منتصف الشاشة لديك لمساعدتك في التصويب , يمكنك ايضا تخصيص و تغير لون / حجم الكروس هير لأي شي تريده. 
+- **علامة تصويب:** اعرض علامة تصويب في منتصف الشاشة لديك لمساعدتك في التصويب , يمكنك ايضا تخصيص و تغير لون / حجم العلامة لأي شي تريده. 
 
 - **كاميرا:** عدل مكان الكاميرا الخاصة بك بالنسبة الى اللاعب للوصول الى اماكن لا يمكن الوصول لها بالعادة. 
 
@@ -109,7 +109,7 @@ This tool is for educational and entertainment purposes only. Use it responsibly
 - **تعديل الثيم:** يمكنك الاختيار بين ثيم "داكن" أو "فاتح" للقائمة الخاصة بالتول. 
   
   
-![المميزات](https://github.com/iGeNeTeL/REVERSE)
+![المميزات](https://github.com/iGeNeTeL/REVERSE/blob/main/Images/Features.jpg)
 
 ## خطوات التثبيت
 1. **تحميل** اخر اصدار من التول عن طريقة صفحة الـ[Releases](https://github.com/iGeNeTeL/REVERSE/releases).
