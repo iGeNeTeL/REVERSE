@@ -12,6 +12,8 @@ A simple Resident Evil ReVerse tool, designed to enhance your in-game experience
 
 - **Hotkeys:** Hotkeys system for everything, allowing you to enable/disable any feature in the tool using your keyboard. Plus, the keybindings are fully customizable.
 
+- **Aimbot:** Automatically Lock Your Aim on Enemies
+
 - **Enemies Glow:** Activate Enemies Glow to see all players, even through walls.
 
 - **FOV:** Modify your "Field of View" (FOV) to personalize and enhance your in-game perspective.
@@ -85,6 +87,8 @@ This tool is for educational and entertainment purposes only. Use it responsibly
 - **نظام Config كامل:** نظام Config كامل يتيح لك حفظ و تحميل اعدادتك الى 15 خانة متاحة , لذا يمكنك تشغيل التول , تحميل اعداداتك الخاصة, و استمتع .
 
 - **نظام اختصارات:** نظام اختصارات حرفيا لكل شي , بحيث يمكنك تفعيل و اغلاق اي ميزة داخل التول بأستخدام ازرار الكيبورد لديك , و ايضا يمكنك تعديل ازرار الاختصارات لأي زر تريده.
+
+- **ايمبوت:** صوب على الاعداء بشكل تلقائي
 
 - **رؤية اللاعبين (Enemies Glow):** فعل هذا الخيار لرؤية جميع اللاعبين , حتى من خلف الجدران. 
 
