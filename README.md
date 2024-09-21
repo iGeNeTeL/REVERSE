@@ -26,7 +26,7 @@ A simple Resident Evil ReVerse tool, designed to enhance your in-game experience
 
 - **Player Size:** Adjust your player size to your preference. Note that decrease/increasing the player size will also decrease/increase your movement speed.
 
-- **Player Color:** Change your player’s color to anything you want.
+- **Player Color:** Change your player’s color to anything you want + Rainbow Mode Available.
 
 - **Infinite Dodge:** Activate Infinite Dodge to gain unlimited stamina, allowing you to dodge repeatedly.
 
@@ -102,7 +102,7 @@ This tool is for educational and entertainment purposes only. Use it responsibly
 
 - **حجم اللاعب:** قم بتغير حجم اللاعب لديك الى اي حجم تريده مع ملاحظة تغير الحجم يؤدي الى تغير سرعة اللاعب. 
 
-- **لون اللاعب:** قم بتغير لون اللاعب لديك الى اي لون تريده. 
+- **لون اللاعب:** قم بتغير لون اللاعب لديك الى اي لون تريده + يوجد وضع الألوان المتغيرة للاعب. 
 
 - **دودج / تجاوز لانهائي:** فعل الدودج اللانهائي للحصول على قدرة تحمل لانهائية تمكنك من عمل حركة التجاوز بشكل متكرر.
 
