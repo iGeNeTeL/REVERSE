@@ -1,7 +1,7 @@
 # Resident Evil ReVerse Tool <br/>(By GeNeTeL جنتل) 
 
 A simple Resident Evil ReVerse tool, designed to enhance your in-game experience.
-<br> [Showcase Videos](https://www.youtube.com/watch?v=eLkXgUOmWBE)
+<br> [Showcase Video](https://www.youtube.com/watch?v=eLkXgUOmWBE)
 
 ## Features
 - **Completely Free:** :)
